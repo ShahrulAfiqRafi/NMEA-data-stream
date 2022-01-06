@@ -157,23 +157,3 @@ scatter(t4lon,t4lat,[],'filled','mo')
 hold on
 %plot(tg4x,tg4y,'m')
 hold off
-
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%ydegree = floor(y1/10000000);
-%xdegree = floor(x1/100000);
-%yms = rem(y1,10000000);
-%xms = rem(x1,100000);
-%ymin = floor(yms/100000);
-%xmin = floor(xms/10000);
-%ysec = rem(yms,100000);
-%xsec = rem(xms,10000);
-%latdms = table(ydegree,ymin,ysec);
-%londms = table(xdegree,xmin,ysec);
-
-
-
-%c = linspace(1,10,length(x));
-%scatter(x,y,[],c, 'filled', 's')
