@@ -64,7 +64,10 @@ $--TTM,xx,x.x,x.x,a,x.x,x.x,a,x.x,x.x,a,c--c,a,a*hh <CR><LF>
 Based on few calculation, hopefully to get changing course or speed for collision avoidance
 *And hopefully classify approach and receeding targets*
 
-
+- [x] Acquired data
+- [ ] Find OSD bearing and speed due to no RAOSD in data log
+- [ ] Calculation for OSNC, OSNS, and both
+- [ ] Classify approaching and receeding target vessel
 
 
 
