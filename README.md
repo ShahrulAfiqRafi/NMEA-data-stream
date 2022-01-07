@@ -14,7 +14,7 @@ Simulator does not need filtering, plotting longitude and latitude from $RATLL
 
 # $RATLL Data plotting
 ## Uses data sample obtain online
-Based on data available online, plotting longitude and latitude from $RATLL, RATLL.txt
+Based on data available online, plotting longitude and latitude from RATLL[^1], RATLL.txt
 
 ![image](https://user-images.githubusercontent.com/85572170/148020741-491cd66e-e66a-499c-a0e0-1db676cc9dea.png)
 
@@ -40,7 +40,7 @@ $--TLL,xx,llll.ll,a,yyyyy.yy,a,c--c,hhmmss.ss,a,a*hh<CR><LF>
 Few error in this radar tracking where it tracked same vessel 
 
 # $RATTM Collision Avoidance
-Planning to calculation for Own Ship course change or speed change or both
+Planning to calculation for Own Ship course change or speed change or both via RATTM[^2]
 ```
                                         11     13
        1  2   3   4 5   6   7 8   9   10|    12| 14
@@ -65,8 +65,8 @@ Based on few calculation, hopefully to get changing course or speed for collisio
 *And hopefully classify approach and receeding targets*
 
 - [x] Acquired data
-- [ ] Find OSD bearing and speed due to no RAOSD in data log
-- [ ] Calculation for OSNC, OSNS, and both
+- [ ] Find OSD bearing and speed due to no RAOSD[^3] in data log
+- [ ] Calculation for OSNC[^4], OSNS[^5], and both
 - [ ] Classify approaching and receeding target vessel
 
 
@@ -75,5 +75,5 @@ Based on few calculation, hopefully to get changing course or speed for collisio
 [^2]: RATTM = RAdar Target Tracked Message
 [^3]: RAOSD = RAdar Own Ship Data
        Consists of course and speed
-[^2]: OSNC = Own Ship New Course
-[^3]: OSNS = Own Ship New Speed
+[^4]: OSNC = Own Ship New Course
+[^5]: OSNS = Own Ship New Speed
