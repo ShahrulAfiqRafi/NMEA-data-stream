@@ -71,4 +71,9 @@ Based on few calculation, hopefully to get changing course or speed for collisio
 
 
 
-
+[^1]: RATLL = RAdar Target Latitude Longitude
+[^2]: RATTM = RAdar Target Tracked Message
+[^3]: RAOSD = RAdar Own Ship Data
+       Consists of course and speed
+[^2]: OSNC = Own Ship New Course
+[^3]: OSNS = Own Ship New Speed
