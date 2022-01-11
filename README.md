@@ -69,18 +69,20 @@ Based on few calculation, hopefully to get changing course or speed for collisio
 ![image](https://user-images.githubusercontent.com/85572170/148971931-55c0a603-6e98-485c-b0e8-6c177f2b90e4.png)
 Here classified the data based on the targets
 Here is the raw data plot of CPA and speed. Smoothing via Loess smoothing is necessary for simulation testing
-## TARGET 1
+### TARGET 1
 ![target1](https://user-images.githubusercontent.com/85572170/148993750-f7a2e3cc-b476-4f35-bdb0-a2fc7397062f.jpg)
 
-## TARGET 2
+### TARGET 2
 ![target2](https://user-images.githubusercontent.com/85572170/148993794-f86709ab-5d92-4a67-b61e-0b4ae96826de.jpg)
 
-## TARGET 3
+### TARGET 3
 ![target3](https://user-images.githubusercontent.com/85572170/148993829-4f805d8a-5fe4-48a9-907c-e89f5488cdd4.jpg)
 
-## TARGET 4
+### TARGET 4
 ![target4](https://user-images.githubusercontent.com/85572170/148993846-aaefa004-56b8-4581-b9cb-5a9eefe38c0b.jpg)
 
+
+## CALCULATION FOR NEW OBSTACLE AVOIDANCE OWN SHIP HEADING
 
 
 
